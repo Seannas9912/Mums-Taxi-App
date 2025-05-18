@@ -4,14 +4,17 @@ body{
     text-align: center;
     color: #ffffff;
 }
+
 .container{
     width: 100%;
     padding-top: 4rem;   
 }
+
 .labels{
     color: #ffffff;
     font-size: 6vw;
 }
+
 #go{
     margin-top: 4rem;
     background-color: #ffffff;
@@ -21,6 +24,7 @@ body{
     font-size: 2rem;
     border-radius: .5em;
 }
+
 .inputs{
     background-color: #ffffff;
     width: 80%;
@@ -28,15 +32,18 @@ body{
     font-size: 3rem;
     text-align: center;
 }
+
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0;
 }
+
 input[type=number] {
     appearance: textfield;
     -moz-appearance: textfield;
 }
+
 #output{
     font-size: 9vw;
     margin-top: 3rem;
